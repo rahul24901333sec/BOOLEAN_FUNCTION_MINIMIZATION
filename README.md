@@ -1,4 +1,8 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+**NAME:RAHUAL.R
+
+**REG NO:24901333
+
+**EXPERIMENT 2: IMPLEMENTATION  OF BOOLEAN FUNCTION **
 
 **AIM:**
 
@@ -8,17 +12,9 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
-
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
-
-**Theory**
-
-**Logic Diagram**
-
-**Procedure**
+**PROCEDURE**
 
 1.	Type the program in Quartus software.
 
@@ -31,22 +27,27 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**PROGRAM:**
+
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![ex 2 1](https://github.com/user-attachments/assets/6e8e0ac7-fc21-4b00-8af7-123608c64ac6)
 
-Developed by: RegisterNumber:*/
 
 
-**RTL realization**
+**RTL REALIZATION OUTPUT:**
 
-**Output:**
+![ex 2 2](https://github.com/user-attachments/assets/d86f810d-048b-4574-8b9c-5103352f6e50)
+![WhatsApp Image 2024-11-21 at 11 24 37_5d166796](https://github.com/user-attachments/assets/6ed55772-543c-4591-98f4-5b28b0dfa531)
+![WhatsApp Image 2024-11-21 at 11 24 38_0452f867](https://github.com/user-attachments/assets/5589b1f5-738e-4d35-ac5c-38eaeff9d5a6)
 
 **RTL**
 
-**Timing Diagram**
+**TIMING DIAGRAM**
 
-**Result:**
+![ex 2 3](https://github.com/user-attachments/assets/3781435d-b42c-4b32-b546-6739fa9d4279)
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+**RESULT:**
+
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming successfully.
 
